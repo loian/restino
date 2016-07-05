@@ -1,0 +1,13 @@
+//
+// Created by Lorenzo Iannone on 03/07/2016.
+//
+
+#ifndef RESTINO_RESTINO_H_H
+#define RESTINO_RESTINO_H_H
+
+#define RESTINO_MAX_METHOD_LEN  8
+#define RESTINO_MAX_HEADER_KEY_LEN  128
+#define RESTINO_MAX_HEADER_VALUE_LEN  128
+#define RESTINO_MAX_BODY_LEN  512
+
+#endif //RESTINO_RESTINO_H_H
